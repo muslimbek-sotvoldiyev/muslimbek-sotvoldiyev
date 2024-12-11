@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=1000&color=03FC7B&width=435&lines=Hi%2C+There+%F0%9F%91%8B+;I'm+Rabbimov+Nurmurod" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=1000&color=03FC7B&width=435&lines=Hi%2C+There+%F0%9F%91%8B+;I'm+Sotvoldiyev+Muslimbek" alt="Typing SVG" />
 </h1>
 <div align="center" style="display:flex; flex-direction:column">
 <h1>Fullstack Developer</h1>
