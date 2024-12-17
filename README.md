@@ -15,7 +15,7 @@
       <br/>  <br/>
 🌐 Telegram: https://t.me/Muslimbek_sotvoldiyev
     <br/>  <br/>
-🌐 Portfolio: https://example.com
+🌐 Portfolio: https://sotvoldiyev-muslimbek.netlify.app/
 </div>
 
 <div align="center">
