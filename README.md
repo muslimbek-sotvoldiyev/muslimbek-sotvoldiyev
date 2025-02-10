@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&pause=1000&color=03FC7B&width=435&lines=Hi%2C+There+%F0%9F%91%8B+;I'm+Sotvoldiyev+Muslimbek" alt="Typing SVG" />
 </h1>
@@ -26,12 +25,10 @@
 </div>
     <br/>  <br/>
 
-
-
-```javascript 
-    console.log("Hello, World!");
-
+```javascript
+console.log("Hello, World!");
 ```
+
 <hr/>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muslimbeko8&theme=github_dark" alt="info">
@@ -46,16 +43,10 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muslimbeko8&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
-
-
 <br><br>
 <br><br>
 
 </div align="center">
+<a href="#"><img src="./svgfile.svg"></a>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
 </div>
-
-
-
-
