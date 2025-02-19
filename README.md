@@ -14,7 +14,7 @@
       <br/>  <br/>
 🌐 Telegram: https://t.me/Muslimbek_sotvoldiyev
     <br/>  <br/>
-🌐 Portfolio: https://muslimbek.fn1-fulltack.uz/
+🌐 Portfolio: [https://muslimbek.fn1-fulltack.uz/](https://muslimbek.fn1-fullstack.uz/)
 </div>
 
 <div align="center">
